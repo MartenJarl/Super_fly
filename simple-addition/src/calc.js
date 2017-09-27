@@ -17,6 +17,10 @@ function addNumbers () {
   let firstNumber = 12
   let secondNumber = 30
 
+  let sum = firstNumber+secondNumber
+
+  return sum
+
   // TODO: Write your code here.
 }
 
